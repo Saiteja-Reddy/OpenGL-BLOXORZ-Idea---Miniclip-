@@ -6,7 +6,7 @@
 * Audio / Images - from google results - not mine 
 
 # Demo
-![Demo GIF](https://github.com/Saiteja-Reddy/OpenGL-BLOXORZ-Idea---Miniclip-/bloxorz.gif "Demo of Level 1")
+![Demo GIF](https://github.com/Saiteja-Reddy/OpenGL-BLOXORZ-Idea---Miniclip-/blob/master/bloxorz.gif "Demo of Level 1")
 
 
 
