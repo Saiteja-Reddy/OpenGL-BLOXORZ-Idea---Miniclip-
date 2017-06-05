@@ -5,6 +5,10 @@
 * Use Makefile.linux for linux
 * Audio / Images - from google results - not mine 
 
+# Demo
+![Demo GIF](https://github.com/Saiteja-Reddy/OpenGL-BLOXORZ-Idea---Miniclip-/bloxorz.gif "Demo of Level 1")
+
+
 
 Font Library - FTGL3
 --------------------
