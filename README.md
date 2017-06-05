@@ -1,3 +1,11 @@
+# BLOXORZ
+
+* Made on MacOS Sierra
+* Dependencies as in Makefile
+* Use Makefile.linux for linux
+* Audio / Images - from google results - not mine 
+
+
 Font Library - FTGL3
 --------------------
 * Download and Install freetype2 library from
